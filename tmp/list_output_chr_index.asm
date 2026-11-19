@@ -1,0 +1,19 @@
+Item_Text_Chr_Index
+    .DB $00
+    .DB $02
+    .DB $01
+    .DB $06
+    .DB $07
+    .DB $00
+    .DB $05
+    .DB $0B
+    .DB $09
+    .DB $08
+    .DB $0A
+    .DB $00
+    .DB $01
+    .DB $03
+    .DB $01
+    .DB $00
+    .DB $04
+    .DB $02
